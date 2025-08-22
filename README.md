@@ -34,14 +34,14 @@ The dcanataset consists of four columns:
 ##### Exploratory Data Analysis (EDA)
 EDA was performed using  correlation heatmaps to understand the relationships between variables, and descriptive statistics to provvide an overview of the dataset.
 #### Step 3: Data Visualization
--Created boxplots for `radio`, `TV` and newspaper` to visualize the distribution of data points.
+-Created boxplots for `radio`, `TV` and `newspaper` to visualize the distribution of data points.
 -Correlation charts to see the relationships of variables in the data.
  #### Model Selection
 Different models were used to predict sales based on the independent variables.
 Random forest and Liner Regression were applied in order to predict sales.
 #### Performance Metrics and accuracy evaluation 
-|Tool | Accuracy Evaluation |
-|--------|------|-------
+|Tool | Accuracy Evaluation |  
+|--------|------|-------|
 |model| Mse| R^2
 |Linear Model | 3| 0.89|
 |Random Forest|1 |0.95|
