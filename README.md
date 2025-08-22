@@ -6,14 +6,22 @@ Project entails using machine learning model for sales prediction  model.
 Sales foreacasting usually takes into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection. 
 
 In this case, i'll be using advertising platform  selection such as tv and radio.
-#### Data composition
-The dataset consists of four columns:
-TV:  TV advertisements
-Radio:  Radio advertisements
-Newspaper:  Newspaper advertisements
-Sales: The number of units sold
-#### Software used
-Python i.e Pandas,NumPy,Matplotlib,Seaborn,Scikit-learn
+### :scroll: Data Description
+The dcanataset consists of four columns:
+- `TV`:  TV advertisements
+-`Radio`:  Radio advertisements
+-`Newspaper`:  Newspaper advertisements
+-`Sales`: The number of units sold
+### :hammer_and_wrench: Tools used
+| Tool | Purpose |
+|----------|----------|
+| Python    | Data cleaning, analysis , prediction |
+| Pandas    | Data manipulaton, data preparation |
+| Numpy     | Data loadindg            
+|Matplotlib | Data visualization |
+ 
+ 
+ Python i.e Pandas,NumPy,Matplotlib,Seaborn,Scikit-learn
 ##### Exploratory Data Analysis (EDA)
 EDA was performed using  correlation heatmaps to understand the relationships between variables, and descriptive statistics to provvide an overview of the dataset.
 ### Data cleaning & Validation
