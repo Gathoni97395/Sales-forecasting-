@@ -26,23 +26,27 @@ The dcanataset consists of four columns:
 |Seaborn    |  Data Visualization|
 |Scikit-learn| Machine Learning |
  ---
-###  &#x1F4D0 Methodology
+### ▶️ Methodology
 #### Step 1: Data Loading and Cleaning 
-- Loaded the .csv file into Microsoft Excel.
-Standardized values across categories to prevent inconsistencies (e.g., consistent naming of states and call reasons).
-Removed duplicates and ensured numeric fields were properly formatted.
-Created helper columns where necessary for categorization and aggregation.
-### Exploratory Data Analysis (EDA)
+- Loaded the .csv file into Jupyter notebooks.
+-Removed duplicates, handled missing data and ensured numeric fields were properly formatted.
+#### Step 2: Data Analysis
+##### Exploratory Data Analysis (EDA)
 EDA was performed using  correlation heatmaps to understand the relationships between variables, and descriptive statistics to provvide an overview of the dataset.
-### Data cleaning & Validation
- Data cleaning was done by handling missing values, outliers and finaly checking for the accuracy of the data.
+#### Step 3: Data Visualization
+-Created boxplots for `radio`, `TV` and newspaper` to visualize the distribution of data points.
+-Correlation charts to see the relationships of variables in the data.
  #### Model Selection
 Different models were used to predict sales based on the independent variables.
 Random forest and Liner Regression were applied in order to predict sales.
 #### Performance Metrics and accuracy evaluation 
-The linear model had an  Mean Squared Error (MSE) of 3   and an R-Squared Scorered Error (R^2) of 0.89.
-The random forest had an  Mean Squared Error (MSE) of 1   and an R-Squared Scorered Error (R^2) of 0.95.
-#### Interpretation 
+|Tool | Accuracy Evaluation |
+|--------|------|-------
+|model| Mse| R^2
+|Linear Model | 3| 0.89|
+|Random Forest|1 |0.95|
+
+####  :brain: Interpretation 
 Random forest was a better model, with   an accuracy score 95% , indicating a better fit to the data. 
 
 
