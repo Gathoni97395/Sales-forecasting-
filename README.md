@@ -18,7 +18,7 @@ The dcanataset consists of four columns:
 ---
 ### :hammer_and_wrench: Tools used
 | Tool | Purpose |
-|----------|----------|
+|---------|----------|
 | Python    | Data cleaning, analysis , prediction |
 | Pandas    | Data manipulaton, data preparation |
 | Numpy     | Data loading |           
@@ -40,9 +40,9 @@ EDA was performed using  correlation heatmaps to understand the relationships be
 Different models were used to predict sales based on the independent variables.
 Random forest and Liner Regression were applied in order to predict sales.
 #### Performance Metrics and accuracy evaluation 
-|Tool | Accuracy Evaluation |  
+|Tool | Accuracy Evaluation | Scores |
 |--------|------|-------|
-|model| Mse| R^2
+|model   | Mse  |    R^2|
 |Linear Model | 3| 0.89|
 |Random Forest|1 |0.95|
 
