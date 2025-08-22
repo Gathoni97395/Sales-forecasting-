@@ -36,6 +36,8 @@ EDA was performed using  correlation heatmaps to understand the relationships be
 #### Step 3: Data Visualization
 -Created boxplots for `radio`, `TV` and `newspaper` to visualize the distribution of data points.
 -Correlation charts to see the relationships of variables in the data.
+
+---
  #### Model Selection
 Different models were used to predict sales based on the independent variables.
 Random forest and Liner Regression were applied in order to predict sales.
