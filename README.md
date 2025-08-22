@@ -9,15 +9,15 @@ In this case, i'll be using advertising platform  selection such as tv and radio
 ### :scroll: Data Description
 The dcanataset consists of four columns:
 - `TV`:  TV advertisements
--`Radio`:  Radio advertisements
--`Newspaper`:  Newspaper advertisements
--`Sales`: The number of units sold
+- `Radio`:  Radio advertisements
+- `Newspaper`:  Newspaper advertisements
+- `Sales`: The number of units sold
 ### :hammer_and_wrench: Tools used
 | Tool | Purpose |
 |----------|----------|
 | Python    | Data cleaning, analysis , prediction |
 | Pandas    | Data manipulaton, data preparation |
-| Numpy     | Data loadindg            
+| Numpy     | Data loading |           
 |Matplotlib | Data visualization |
  
  
