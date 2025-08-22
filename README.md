@@ -26,7 +26,7 @@ The dcanataset consists of four columns:
 |Seaborn    |  Data Visualization|
 |Scikit-learn| Machine Learning |
  ---
-### :Yellow Right-Pointing Triangle: Methodology
+###  &#x1F4D0 Methodology
 #### Step 1: Data Loading and Cleaning 
 - Loaded the .csv file into Microsoft Excel.
 Standardized values across categories to prevent inconsistencies (e.g., consistent naming of states and call reasons).
