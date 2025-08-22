@@ -1,11 +1,14 @@
 ### Probem statement
-A company that advertises its products on different platforms would like to know which marketing strategy is more effective, and how to capitalize on this strategy.By predicting future sales, they can better leverage these predictions from the analysis,and  optimize their advertising strategies and maximize sales potential.----
+A company that advertises its products on different platforms would like to know which marketing strategy is more effective, and how to capitalize on this strategy.By predicting future sales, they can better leverage these predictions from the analysis,and  optimize their advertising strategies and maximize sales potential.
+
+----
 
 ### Sales prediction using python
 Project entails using machine learning model for sales prediction  model.
 Sales foreacasting usually takes into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection. 
 
----In this case, I'll be using advertising platform selections such as tv and radio.
+---
+In this case, I'll be using advertising platform selections such as tv and radio.
 ### :scroll: Data Description
 The dcanataset consists of four columns:
 - `TV`:  TV advertisements
@@ -23,7 +26,7 @@ The dcanataset consists of four columns:
 |Seaborn    |  Data Visualization|
 |Scikit-learn| Machine Learning |
  ---
-### : triangle: Methodology
+### :Yellow Right-Pointing Triangle: Methodology
 #### Step 1: Data Loading and Cleaning 
 - Loaded the .csv file into Microsoft Excel.
 Standardized values across categories to prevent inconsistencies (e.g., consistent naming of states and call reasons).
