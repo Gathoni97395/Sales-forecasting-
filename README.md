@@ -1,12 +1,11 @@
-# CODSOFT-TASK-4
-## Probem statement
-A company that advertises its products on different platforms would like to know which marketing strategy is more effective, and how to capitalize on this strategy.By predicting future sales, they can better leverage these predictions from the analysis,and  optimize their advertising strategies and maximize sales potential.
----
+### Probem statement
+A company that advertises its products on different platforms would like to know which marketing strategy is more effective, and how to capitalize on this strategy.By predicting future sales, they can better leverage these predictions from the analysis,and  optimize their advertising strategies and maximize sales potential.----
+
 ### Sales prediction using python
 Project entails using machine learning model for sales prediction  model.
 Sales foreacasting usually takes into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection. 
----
-In this case, I'll be using advertising platform selections such as tv and radio.
+
+---In this case, I'll be using advertising platform selections such as tv and radio.
 ### :scroll: Data Description
 The dcanataset consists of four columns:
 - `TV`:  TV advertisements
