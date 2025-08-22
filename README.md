@@ -38,7 +38,7 @@ EDA was performed using  correlation heatmaps to understand the relationships be
 -Correlation charts to see the relationships of variables in the data.
 
 ---
- #### Model Selection
+ #### 📝 Model Selection
 Different models were used to predict sales based on the independent variables.
 Random forest and Liner Regression were applied in order to predict sales.
 #### Performance Metrics and accuracy evaluation 
