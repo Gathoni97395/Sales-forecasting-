@@ -46,7 +46,7 @@ Random forest and Liner Regression were applied in order to predict sales.
 |Linear Model | 3| 0.89|
 |Random Forest|1 |0.95|
 
-####  :brain: Interpretation 
-Random forest was a better model, with   an accuracy score 95% , indicating a better fit to the data. 
+####  :brain: Insights
+The Random forest was a better model, with   an accuracy score 95% , indicating a better fit to the data. 
 
 
